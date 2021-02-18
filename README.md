@@ -1,5 +1,7 @@
 # About
 
+![image](https://user-images.githubusercontent.com/2126076/108412562-b3655700-7208-11eb-9c86-d32c50a9f092.png)
+
 This is an example of how to set up a project with:
 
 - Ruby 3
