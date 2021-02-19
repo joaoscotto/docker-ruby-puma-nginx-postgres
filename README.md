@@ -22,12 +22,12 @@ git clone https://github.com/joaoscotto/docker-ruby-puma-nginx-postgres.git
 cd docker-ruby-puma-nginx-postgres
 ```
 
-3 - Build and start Docker
+2 - Build and start Docker
 ```bash
 make build
 ```
 
-4 - See the [Makefile](https://github.com/joaoscotto/docker-ruby-puma-nginx-postgres/blob/master/Makefile) for more commands:
+3 - See the [Makefile](https://github.com/joaoscotto/docker-ruby-puma-nginx-postgres/blob/master/Makefile) for more commands:
 ```bash
 make docker
 make clean
