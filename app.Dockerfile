@@ -1,4 +1,4 @@
-FROM ruby:3.0.0
+FROM ruby:3.0.1
 
 # Install node 14-LTS and yarn
 RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -
